@@ -4,6 +4,7 @@ Supplementary appendix for ITSRM.
 
 The supplementary appendix contains:
 
-- **Appendix A.** Intrinsic Derivation of the Proposed Dimensionality Reduction under the Affine-Invariant Riemannian Metric.
-- **Appendix B.** Iterative Estimation Algorithm for ITSRM.
+- **Appendix A.** Manifold Geometry of SPD Matrices.
+- **Appendix B.** Intrinsic Derivation of the Proposed Dimensionality Reduction under the Affine-Invariant Riemannian Metric.
+
 
